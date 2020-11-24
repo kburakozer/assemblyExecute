@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mycpuexec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycpuexec_jar</output-path>
+    <root id="archive" name="mycpuexec.jar">
+      <element id="module-output" name="mycpuexec" />
+    </root>
+  </artifact>
+</component>
